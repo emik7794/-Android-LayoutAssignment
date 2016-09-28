@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lector Reddit</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_invalid_email">Direccion email no valida</string>
+    <string name="error_invalid_password">Contraseña demasiado corta</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="title_activity_news">"Editor Reddit"</string>
+    <string name="action_sign_in">Logueo o Registro</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="action_sign_out">Salir</string>
+</resources>
